@@ -56,6 +56,7 @@ git commit -m "SWIFT-1 inserir um comentário significativo"
 **Visualizando relatório de commits**
 ```bash
 git log // todos os commits
+
 git log --oneline // exibe log com hash e título do commit
 ```
 
