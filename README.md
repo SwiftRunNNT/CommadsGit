@@ -49,9 +49,7 @@ git add .
 **Commitando arquivos**
 ```bash
 git commit -m "[SWIFT-1] inserir um comentário significativo"
-```
 
-```bash
 git commit -m "SWIFT-1 inserir um comentário significativo"
 ```
 
